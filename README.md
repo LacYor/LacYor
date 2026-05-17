@@ -6,35 +6,35 @@
   </a>
 </h1>
 
-<p align="center">
+<p>
   <kbd>CYBERSPACE_SECURITY</kbd> &nbsp;|&nbsp; <kbd>CTF_PLAYER</kbd> &nbsp;|&nbsp; <kbd>DEVELOPER</kbd>
 </p>
 
 <br>
 
-</div>
-
 ---
 
+<h2>❖ OPERATOR PROFILE // 干员档案</h2>
 
-## ❖ OPERATOR PROFILE // 干员档案
-
-> 🎓 **Education // 专精职能 :** Major in Cyberspace Security | 网络空间安全 🛡️
->
-> 🚩 **Status // 当前状态 :** CTFer | 💻 Developer
->
-> 📺 **Hobbies // 偏好数据 :** 番剧爱好者 | ACG
->
-> 🎮 **Simulation // 战术演练 :** 原神 | 明日方舟 玩家
->
-> ☕ **Sanity // 理智状况 :** Heavy Night Owl | 重度晚睡党
+<table width="600" border="0" style="border:none; border-collapse:collapse; background-color: transparent;">
+  <tr>
+    <td align="left" style="border:none; padding: 20px;">
+      <div style="line-height: 1.6;">
+        🎓 <b>Education // 专精职能 :</b> Major in Cyberspace Security | 网络空间安全 🛡️<br><br>
+        🚩 <b>Status // 当前状态 :</b> CTFer | 💻 Developer<br><br>
+        📺 <b>Hobbies // 偏好数据 :</b> 番剧爱好者 | ACG<br><br>
+        🎮 <b>Simulation // 战术演练 :</b> 原神 | 明日方舟 玩家<br><br>
+        ☕ <b>Sanity // 理智状况 :</b> Heavy Night Owl | 重度晚睡党
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<h2>❖ ARSENAL // 技术武器库</h2>
 
-## ❖ ARSENAL // 技术武器库
-
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,php,html,js,c,css,spring,idea,androidstudio,matlab,cloudflare,netlify,github,twitter,azure,linux,docker,kubernetes,bash,git,githubactions,md,mysql,redis,windows,vscode,ubuntu,obsidian,kali&perline=10" alt="Tech Stack" />
   </a>
@@ -44,8 +44,7 @@
 
 ---
 
-
-## ❖ TACTICAL MAP // 战术地图 (Contribution Grid Snake)
+<h2>❖ TACTICAL MAP // 战术地图 (Contribution Grid Snake)</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LacYor/LacYor/output/github-contribution-grid-snake-dark.svg">
@@ -53,13 +52,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LacYor/LacYor/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
-
+<br><br>
 
 ---
 
-<div align="center">
-  <img src="https://count.kjchmc.cn/get/@LacYor?theme=minecraft" alt="Visitor Count" />
-  <br>
-  <sub><i>// TERMINAL_LOGOUT //</i></sub>
+<img src="https://count.kjchmc.cn/get/@LacYor?theme=minecraft" alt="Visitor Count" />
+<br>
+<sub><i>// TERMINAL_LOGOUT //</i></sub>
+
 </div>
