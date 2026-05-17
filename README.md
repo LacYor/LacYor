@@ -23,7 +23,7 @@
         🎓 <b>Education // 专精职能 :</b> Major in Cyberspace Security | 网络空间安全 🛡️<br><br>
         🚩 <b>Status // 当前状态 :</b> CTFer | 💻 Developer<br><br>
         📺 <b>Hobbies // 偏好数据 :</b> 番剧爱好者 | ACG<br><br>
-        🎮 <b>Simulation // 战术演练 :</b> 原神 | 明日方舟 玩家<br><br>
+        🎮 <b>Simulation // 战术演练 :</b> 原神 | 明日方舟 <br><br>
         ☕ <b>Sanity // 理智状况 :</b> Heavy Night Owl | 重度晚睡党
       </div>
     </td>
@@ -44,7 +44,7 @@
 
 ---
 
-<h2>❖ TACTICAL MAP // 战术地图 (Contribution Grid Snake)</h2>
+<h2>❖ TACTICAL MAP // 战术地图</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LacYor/LacYor/output/github-contribution-grid-snake-dark.svg">
