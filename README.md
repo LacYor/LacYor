@@ -13,11 +13,7 @@
   
 > "Arts longa, vita brevis."
 
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacYor&layout=compact" />
-</a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LacYor&theme=tokyonight&hide_border=true&locale=zh_Hans)](https://git.io/streak-stats)
 
 
 
