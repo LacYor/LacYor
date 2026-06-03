@@ -1,50 +1,183 @@
 <div align="center">
 
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%5B+SYSTEM_BOOT+%5D+%3A%3A+Connection+established.;Hello%2C+%E6%88%91%E6%98%AF+LacYor+%F0%9F%91%8B;%3E+Welcome+to+the+Terminal;Arts+longa%2C+vita+brevis." alt="Typing SVG" />
-  </a>
-</h1>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                            H E A D E R                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p>
-  <kbd>CYBERSPACE_SECURITY</kbd> &nbsp;|&nbsp; <kbd>CTF_PLAYER</kbd> &nbsp;|&nbsp; <kbd>DEVELOPER</kbd>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=%5B+SYSTEM_BOOT+%5D+%3A%3A+Connection+established.;Hello%2C+%E6%88%91%E6%98%AF+LacYor+%F0%9F%91%8B;%3E+Welcome+to+the+Terminal;Ars+longa%2C+vita+brevis." alt="Typing SVG" />
+</a>
 
 <br>
 
+<!-- Role Badges -->
+
+<p>
+  <img src="https://img.shields.io/badge/🎯_Cyberspace_Security-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🚩_CTF_Player-E74C3C?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💻_Developer-27AE60?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+
+<!-- Contact / Social Badges -->
+
+<p>
+  <a href="https://github.com/LacYor"><img src="https://img.shields.io/badge/GitHub-LacYor-58A6FF?style=flat-square&logo=github&labelColor=0D1117" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&labelColor=0D1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blog-_-FF5722?style=flat-square&logo=blogger&labelColor=0D1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-_-1DA1F2?style=flat-square&logo=twitter&labelColor=0D1117" /></a>
+</p>
+
+
+<!-- Activity Graph -->
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=LacYor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF22" alt="Activity Graph"/>
+
+</div>
+
 ---
 
-<h2>❖ OPERATOR PROFILE // 干员档案</h2>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   O P E R A T O R   P R O F I L E                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table width="600" border="0" style="border:none; border-collapse:collapse; background-color: transparent;">
-  <tr>
-    <td align="left" style="border:none; padding: 20px;">
-      <div style="line-height: 1.6;">
-        🎓 <b>Education // 专精职能 :</b> Major in Cyberspace Security | 网络空间安全 🛡️<br><br>
-        🚩 <b>Status // 当前状态 :</b> CTFer | 💻 Developer<br><br>
-        📺 <b>Hobbies // 偏好数据 :</b> 番剧爱好者 | ACG<br><br>
-        🎮 <b>Simulation // 战术演练 :</b> 原神 | 明日方舟 <br><br>
-        ☕ <b>Sanity // 理智状况 :</b> Heavy Night Owl | 重度晚睡党
-      </div>
-    </td>
-  </tr>
+## 🎓 干员档案 · Operator Profile
+
+<div align="center">
+
+
+> *"Ars longa, vita brevis."* — 艺海无涯，生命有期。
+
+</div>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+
+```yaml
+codename : LacYor
+class    : Cyberspace Security
+status   : 🟢 Active
+
+🎯 Focus:
+  • Web Security & Penetration Testing
+  • CTF (Web · Crypto · Reverse · Misc)
+  • Backend Development (Java / Python)
+
+📺 Interests:
+  • Anime · ACG
+  • Genshin Impact · Arknights
+  • Open Source
+
+🕐 Prime Time:
+  • UTC+8  ·  Night Owl 🌙
+```
+
+</td>
+<td width="55%" valign="top">
+
+<div align="center">
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=LacYor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LacYor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html" />
+</a>
+
+<br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=LacYor&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       A R S E N A L                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ 技术武器库 · Arsenal
+
+<div align="center">
+
+
+### ⌨️ Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,ts,html,css,md&perline=10" />
+
+### ⚙️ Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,redis,git,github,githubactions,docker,kubernetes,linux,bash,azure,cloudflare,netlify&perline=8" />
+
+### 🖥️ Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,obsidian,windows,ubuntu,kali&perline=7" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                 T A C T I C A L   D A T A                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📊 战术数据 · Tactical Data
+
+<div align="center">
+
+
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=LacYor&theme=tokyonight&no-frame=true&column=8&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Stats Cards Row -->
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+
+### 📈 Contribution Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LacYor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=6&hide_title=true" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 This Year Goals
+
+```markdown
+✅ Master Web Security Fundamentals
+🔄 Win a CTF Competition
+🔄 Contribute to Open Source
+📝 Publish Writeups Regularly
+🔲 Build a Personal Security Lab
+🔲 Earn OSCP Certification
+```
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<h2>❖ ARSENAL // 技术武器库</h2>
+<div align="center">
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,html,js,c,css,spring,idea,androidstudio,matlab,cloudflare,netlify,github,twitter,azure,linux,docker,kubernetes,bash,git,githubactions,md,mysql,redis,windows,vscode,ubuntu,obsidian,kali&perline=10" alt="Tech Stack" />
-  </a>
-</p>
 
-<br>
-
----
-
-<h2>❖ TACTICAL MAP // 战术地图</h2>
+<!-- Contribution Snake -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LacYor/LacYor/output/github-contribution-grid-snake-dark.svg">
@@ -52,12 +185,87 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LacYor/LacYor/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+
+</div>
 
 ---
 
-<img src="https://count.kjchmc.cn/get/@LacYor?theme=minecraft" alt="Visitor Count" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      P R O J E C T S                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📂 作战记录 · Projects
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+
+### 🚩 CTF Writeups
+
+> *Writeups & competition scripts*
+
+<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-🛡️-555?style=for-the-badge&labelColor=0D1117" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔬 Security Labs
+
+> *PoCs, exploits & research*
+
+<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-🔬-555?style=for-the-badge&labelColor=0D1117" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧩 Side Projects
+
+> *Tools, bots & experiments*
+
+<a href="#"><img src="https://img.shields.io/badge/Coming_Soon-⚡-555?style=for-the-badge&labelColor=0D1117" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📝 展开更多 · Expand</summary>
 <br>
-<sub><i>// TERMINAL_LOGOUT //</i></sub>
+<p align="center">
+  <i>CTF 题解、实验笔记和项目链接即将上线。Stay tuned! 🚧</i>
+</p>
+</details>
+
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        F O O T E R                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+
+<img src="https://count.kjchmc.cn/get/@LacYor?theme=minecraft" alt="Visitor Count"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Last_Updated-2026%2F06%2F03-informational?style=flat-square&labelColor=0D1117" />
+
+<br>
+<br>
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br>
+<br>
+
+<sub>
+  <samp>// END OF TRANSMISSION //</samp>
+</sub>
 
 </div>
