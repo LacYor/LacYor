@@ -21,12 +21,6 @@
 
 <!-- Contact / Social Badges -->
 
-<p>
-  <a href="https://github.com/LacYor"><img src="https://img.shields.io/badge/GitHub-LacYor-58A6FF?style=flat-square&logo=github&labelColor=0D1117" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&labelColor=0D1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-_-FF5722?style=flat-square&logo=blogger&labelColor=0D1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-_-1DA1F2?style=flat-square&logo=twitter&labelColor=0D1117" /></a>
-</p>
 
 
 <!-- Activity Graph -->
