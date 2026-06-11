@@ -39,7 +39,7 @@
 <div align="center">
 
 
-> *"Ars longa, vita brevis."* — 艺海无涯，生命有期。
+> *"Ars longa, vita brevis."* — 艺术千秋，人生几何。
 
 </div>
 
